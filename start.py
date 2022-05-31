@@ -1,8 +1,26 @@
-import os
+# Encrypted by: Dedsec 0xbit
+# Github- https://github.com/0xbitx
 
-def cloudflare():
-	print()
-	os.system("rm .cld.log")
-	os.system("./cloudflared tunnel -url 127.0.0.1:8080 --logfile .cld.log")
-
-cloudflare()
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec = ""
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x61\x57\x31\x77\x62\x33\x4a\x30\x49\x47"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x39\x7a\x43\x67\x70\x6b\x5a\x57\x59\x67"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x59\x32\x78\x76\x64\x57\x52\x6d\x62\x47"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x46\x79\x5a\x53\x67\x70\x4f\x67\x6f\x4a"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x63\x48\x4a\x70\x62\x6e\x51\x6f\x4b\x51"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x6f\x4a\x62\x33\x4d\x75\x63\x33\x6c\x7a"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x64\x47\x56\x74\x4b\x43\x4a\x79\x62\x53"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x41\x75\x59\x32\x78\x6b\x4c\x6d\x78\x76"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x5a\x79\x49\x70\x43\x67\x6c\x76\x63\x79"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x35\x7a\x65\x58\x4e\x30\x5a\x57\x30\x6f"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x49\x69\x34\x76\x59\x32\x78\x76\x64\x57"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x52\x6d\x62\x47\x46\x79\x5a\x57\x51\x67"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x64\x48\x56\x75\x62\x6d\x56\x73\x49\x43"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x31\x31\x63\x6d\x77\x67\x4d\x54\x49\x33"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x4c\x6a\x41\x75\x4d\x43\x34\x78\x4f\x6a"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x67\x77\x4f\x44\x41\x67\x4c\x53\x31\x73"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x62\x32\x64\x6d\x61\x57\x78\x6c\x49\x43"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x35\x6a\x62\x47\x51\x75\x62\x47\x39\x6e"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x49\x69\x6b\x4b\x43\x6d\x4e\x73\x62\x33"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x56\x6b\x5a\x6d\x78\x68\x63\x6d\x55\x6f"
+dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec += "\x4b\x51\x6f\x3d"
+exec(__import__("\x62\x61\x73\x65\x36\x34").b64decode(dedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsecdedsec.encode("\x75\x74\x66\x2d\x38")).decode("\x75\x74\x66\x2d\x38"))
